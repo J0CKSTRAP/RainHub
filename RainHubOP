@@ -36,7 +36,7 @@ local ChatSpam = Instance.new("TextButton")
 
 --Properties:
 
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = ScreenGui
@@ -311,7 +311,7 @@ ChatSpam.TextXAlignment = Enum.TextXAlignment.Left
 
 -- Scripts:
 
-local function NPIZZ_fake_script() -- Open.LocalScript 
+local function HCDPY_fake_script() -- Open.LocalScript 
 	local script = Instance.new('LocalScript', Open)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -320,8 +320,8 @@ local function NPIZZ_fake_script() -- Open.LocalScript
 		script.Parent.Visible = false
 	end)
 end
-coroutine.wrap(NPIZZ_fake_script)()
-local function OXXXO_fake_script() -- Close.LocalScript 
+coroutine.wrap(HCDPY_fake_script)()
+local function FVBTDL_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -330,8 +330,8 @@ local function OXXXO_fake_script() -- Close.LocalScript
 		script.Parent.Visible = false
 	end)
 end
-coroutine.wrap(OXXXO_fake_script)()
-local function UOZZEV_fake_script() -- Fill.LocalScript 
+coroutine.wrap(FVBTDL_fake_script)()
+local function PTCK_fake_script() -- Fill.LocalScript 
 	local script = Instance.new('LocalScript', Fill)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -357,8 +357,8 @@ local function UOZZEV_fake_script() -- Fill.LocalScript
 		end
 	end)
 end
-coroutine.wrap(UOZZEV_fake_script)()
-local function RETRLQW_fake_script() -- Fill_2.LocalScript 
+coroutine.wrap(PTCK_fake_script)()
+local function XUGTM_fake_script() -- Fill_2.LocalScript 
 	local script = Instance.new('LocalScript', Fill_2)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -384,8 +384,8 @@ local function RETRLQW_fake_script() -- Fill_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(RETRLQW_fake_script)()
-local function UIDAM_fake_script() -- Rainbow.LocalScript 
+coroutine.wrap(XUGTM_fake_script)()
+local function DNGJ_fake_script() -- Rainbow.LocalScript 
 	local script = Instance.new('LocalScript', Rainbow)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -463,8 +463,8 @@ local function UIDAM_fake_script() -- Rainbow.LocalScript
 	
 	end)
 end
-coroutine.wrap(UIDAM_fake_script)()
-local function HDSRSLU_fake_script() -- Fly.LocalScript 
+coroutine.wrap(DNGJ_fake_script)()
+local function AVDVYA_fake_script() -- Fly.LocalScript 
 	local script = Instance.new('LocalScript', Fly)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -554,8 +554,8 @@ local function HDSRSLU_fake_script() -- Fly.LocalScript
 		Fly()
 	end)
 end
-coroutine.wrap(HDSRSLU_fake_script)()
-local function ZGAGKV_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(AVDVYA_fake_script)()
+local function SZWQQVH_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	
@@ -564,8 +564,8 @@ local function ZGAGKV_fake_script() -- TextButton_3.LocalScript
 		script.Parent.Parent.Parent.Localplayer.Visible = true
 	end)
 end
-coroutine.wrap(ZGAGKV_fake_script)()
-local function DQFXL_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(SZWQQVH_fake_script)()
+local function LTPGBXI_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	
@@ -575,8 +575,8 @@ local function DQFXL_fake_script() -- TextButton_4.LocalScript
 	end)
 	
 end
-coroutine.wrap(DQFXL_fake_script)()
-local function FBRMTGY_fake_script() -- RedTeleport.LocalScript 
+coroutine.wrap(LTPGBXI_fake_script)()
+local function MPMYQB_fake_script() -- RedTeleport.LocalScript 
 	local script = Instance.new('LocalScript', RedTeleport)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -613,8 +613,8 @@ local function FBRMTGY_fake_script() -- RedTeleport.LocalScript
 		bypass(teleport_table.TPSpot)
 	end)
 end
-coroutine.wrap(FBRMTGY_fake_script)()
-local function KETVL_fake_script() -- BlueTeleport.LocalScript 
+coroutine.wrap(MPMYQB_fake_script)()
+local function WHVKEDC_fake_script() -- BlueTeleport.LocalScript 
 	local script = Instance.new('LocalScript', BlueTeleport)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -650,8 +650,8 @@ local function KETVL_fake_script() -- BlueTeleport.LocalScript
 		bypass(teleport_table.TPSpot)
 	end)
 end
-coroutine.wrap(KETVL_fake_script)()
-local function SLEC_fake_script() -- ChatSpam.LocalScript 
+coroutine.wrap(WHVKEDC_fake_script)()
+local function QYTDEJR_fake_script() -- ChatSpam.LocalScript 
 	local script = Instance.new('LocalScript', ChatSpam)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -670,8 +670,8 @@ local function SLEC_fake_script() -- ChatSpam.LocalScript
 		end
 	end)
 end
-coroutine.wrap(SLEC_fake_script)()
-local function LQSEYX_fake_script() -- Frame.LocalScript 
+coroutine.wrap(QYTDEJR_fake_script)()
+local function LEDNR_fake_script() -- Frame.LocalScript 
 	local script = Instance.new('LocalScript', Frame)
 
 	local UIS = game:GetService("UserInputService")
@@ -712,7 +712,7 @@ local function LQSEYX_fake_script() -- Frame.LocalScript
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(LQSEYX_fake_script)()
+coroutine.wrap(LEDNR_fake_script)()
 
 else
 	game.Players.LocalPlayer:Kick("Game Unsupported Right Now Sorry :(")
