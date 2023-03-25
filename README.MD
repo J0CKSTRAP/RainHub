@@ -14,6 +14,8 @@ List of officially supported executors:
 
 5. Fluxus
 
+6. WeAreDevs
+
 Those are all the officially supported apis for rainhub v2 note you might get it to work on other apis like wrd and easyexploits but don't cry to me if it doesn't work on an officially unsupported api. 
 
 
