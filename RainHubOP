@@ -8,3 +8,9 @@ if game.PlaceId == 286090429 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/ArsenalRainhub/main/D"))()
 
 end
+if game.PlaceId == 142823291 then
+
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/MurderMyst2/main/main"))()
+
+end
+
