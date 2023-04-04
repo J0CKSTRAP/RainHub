@@ -1,6 +1,10 @@
-RainHub Might take 1 - 2 hours to fix itself after an update is pushed so if it is not working that is why! 
-
-RainHub V2 is on top! also the obfuscation method RainHub V2 uses crashes low end executors like EasyExploits :trollge: 
+  _____            _____ _   _ _    _ _    _ ______      _____  
+ |  __ \     /\   |_   _| \ | | |  | | |  | |  _ \ \    / /__ \ 
+ | |__) |   /  \    | | |  \| | |__| | |  | | |_) \ \  / /   ) |
+ |  _  /   / /\ \   | | | . ` |  __  | |  | |  _ < \ \/ /   / / 
+ | | \ \  / ____ \ _| |_| |\  | |  | | |__| | |_) | \  /   / /_ 
+ |_|  \_\/_/    \_\_____|_| \_|_|  |_|\____/|____/   \/   |____|
+ dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better
 
 List of officially supported executors:
 
@@ -16,7 +20,7 @@ List of officially supported executors:
 
 6. WeAreDevs
 
-Those are all the officially supported apis for rainhub v2 note you might get it to work on other apis like wrd and easyexploits but don't cry to me if it doesn't work on an officially unsupported api. 
+Those are all the officially supported apis for rainhub v2 note you might get it to work on other apis like wrd and easyexploits but don't cry to me if it doesn't work on an officially unsupported api. RainHub Might take 1 - 2 hours to fix itself after an update is pushed so if it is not working that is why! 
 
 
 Rainhub V2 > DarkHub
