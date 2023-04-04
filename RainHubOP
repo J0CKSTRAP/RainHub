@@ -1,41 +1,19 @@
 if game.PlaceId == 3829055572 then
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/TheundergaywarRainHub/main/rainhub.lua"))()
-	print("dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better")
-	setclipboard("dsc.gg/c00lB055")
-	game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "RainHub"; --must be string
-	Text = "Copied Discord Link"; --must be string
-	Icon = "rbxassetid://9176098748"; --optional
-	Duration = 5; -- defaults to 5 secs if no duration is set
-	Button1 = "okay";
+
 })
 
 end
 if game.PlaceId == 286090429 then
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/ArsenalRainhub/main/D"))()
-	print("dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better")
-	setclipboard("dsc.gg/c00lB055")
-	game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "RainHub"; --must be string
-	Text = "Copied Discord Link"; --must be string
-	Icon = "rbxassetid://9176098748"; --optional
-	Duration = 5; -- defaults to 5 secs if no duration is set
-	Button1 = "okay";
+
 
 end
 if game.PlaceId == 142823291 then
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/MurderMyst2/main/main"))()
-	print("dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better")
-	setclipboard("dsc.gg/c00lB055")
-	game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "RainHub"; --must be string
-	Text = "Copied Discord Link"; --must be string
-	Icon = "rbxassetid://9176098748"; --optional
-	Duration = 5; -- defaults to 5 secs if no duration is set
-	Button1 = "okay";
 
 end
 
