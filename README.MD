@@ -1,10 +1,6 @@
-  _____            _____ _   _ _    _ _    _ ______      _____  
- |  __ \     /\   |_   _| \ | | |  | | |  | |  _ \ \    / /__ \ 
- | |__) |   /  \    | | |  \| | |__| | |  | | |_) \ \  / /   ) |
- |  _  /   / /\ \   | | | . ` |  __  | |  | |  _ < \ \/ /   / / 
- | | \ \  / ____ \ _| |_| |\  | |  | | |__| | |_) | \  /   / /_ 
- |_|  \_\/_/    \_\_____|_| \_|_|  |_|\____/|____/   \/   |____|
- dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better
+RainHub V2
+
+dsc.gg/c00lB055 | Moonsex is ass lmfao ironbrew is 500000 times better
 
 List of officially supported executors:
 
