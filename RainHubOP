@@ -2,7 +2,6 @@ if game.PlaceId == 3829055572 then
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/TheundergaywarRainHub/main/rainhub.lua"))()
 
-})
 
 end
 if game.PlaceId == 286090429 then
@@ -16,4 +15,3 @@ if game.PlaceId == 142823291 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/J0CKSTRAP/MurderMyst2/main/RainHubMM2.lua"))()
 
 end
-
