@@ -2,15 +2,12 @@ RainHub v2
 
 List of officially supported executors:
 
-1. Script ware ios
+1. Solara
 
-2. Celery UWP
+2. Celery
 
-3. Fluxus UWP / Android 
+3. Electron 
 
-4. Hydrogen
+4. Wave
 
-Those are all the officially supported apis for rainhub v2 note RainHub Might take 1 - 2 hours to update. New ui lib for v2.21. 
-
-
-Rainhub V2 > DarkHub
+Me when byfron:
