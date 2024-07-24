@@ -29,7 +29,7 @@
 
 3. Electron 
 
-# Wave is UNSUPPORTED and NEVER will be because it is asscheeks and is overhyped with fake UNC function, 
+# Wave is UNSUPPORTED and NEVER will be because it is asscheeks and is overhyped with fake UNC functions, 
 please consider use any other exploit out their that is trusted in the community. This Script is a part of WAVE Boycott that is made by
 toasty.dev and is FULLY endorsed by me, any other GOOD script dev should follow me in this decision. 
 Your ROBLOX will crash in about 20 seconds after running the Script thank you Goodbye. 
