@@ -40,5 +40,7 @@ please consider use any other exploit out their that is trusted in the community
 toasty.dev and is FULLY endorsed by me, any other GOOD script dev should follow me in this decision. 
 Your ROBLOX will crash in about 20 seconds after running the Script thank you Goodbye. 
 
+## also Nyx is just #dogshit ##made by a skid so yeah it is under the exec blacklist
+
 ## GOODBYE use a better cheat
 
