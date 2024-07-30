@@ -4,13 +4,19 @@
 
 1. Made undetectable fly
 
-2. added Skeleton ESP
+2. removed Skeleton ESP cuz it was broken
 
 3. added Aim ESP (Makes it so you can see where ppl are looking)
 
 4. added Sensitivity to the aimbot 0 being the lowest and 1 being instant lock on 
 
 5. it adds jitter (X, Y, and Z) 0 being no jitter a 2 being hella jittery (don't use 2 on either X or Y or Z)
+
+6. added Predictions and Prediction strength 
+
+7. added Tracer Start Position settings (top, middle, bottom)
+
+8. made it so you can adjust the thickness of the esp elements (1 - 4 on the slider)
 
 ------------------------------------------------------------------------------
 
